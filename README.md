@@ -5,7 +5,7 @@
 
 :man_student: I'm a Web Developer!
 
-:telescope: I'm currently working as a Full-Stack Programmer @ Deloitte.
+:telescope: I'm currently working as a Full-Stack Developer @ Deloitte.
 
 
 
